@@ -7,4 +7,4 @@
 
 ## Usage
 
-Run ``` python app.py```
+Run ```python app.py --sales_train sales_train.csv --test test.csv --item_categories item_categories.csv --items items.csv --shops shops.csv --output submission.csv```
