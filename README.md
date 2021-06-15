@@ -8,3 +8,6 @@
 ## Usage
 
 ``` python app.py```
+
+## Reference
+1. [](https://www.kaggle.com/deinforcement/top-1-predict-future-sales-features-lightgbm/comments)
